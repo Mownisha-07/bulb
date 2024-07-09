@@ -1,0 +1,20 @@
+img {
+  height: 400px;
+  width: 250px;
+  margin-left: 700px;
+}
+
+button {
+  width: 150px;
+  height: 35px;
+  margin-left: 750px;
+  margin-top: 15px;
+  border-radius: 15px 15px 15px 15px;
+  background: linear-gradient(violet, darkviolet, violet);
+}
+h1 {
+  background: linear-gradient(violet, darkviolet, violet);
+  width: 680px;
+  font-style: oblique;
+  color: rgb(152, 24, 24);
+}
